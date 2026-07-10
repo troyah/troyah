@@ -11,6 +11,6 @@
 
 <p align="center">
   I'm Victoria. I'm currently studying Psychology at UFMG,<br>
-  I also conduct research. In my free time, I'm also learning<br>
+  where I work as a researcher. In my free time, I'm also learning<br>
   Python and Machine Learning for a future project.
 </p>
