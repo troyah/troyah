@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**troyah/troyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Where+do+the+highest+mountains+come+from%3F" alt="Typing SVG" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="mountains.gif" alt="Mountains gif" width="600">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I'm Victoria. I'm currently studying Psychology at UFMG,<br>
+  I also conduct research. In my free time, I'm also learning<br>
+  Python and Machine Learning for a future project.
+</p>
